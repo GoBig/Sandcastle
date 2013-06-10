@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureMapPoc", "StructureMapPoc\StructureMapPoc.csproj", "{D4305D23-D76F-46B7-9286-35C8F82C1B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vSol.CQRS", "vSol.CQRS\vSol.CQRS.csproj", "{1EEC2256-130F-4472-89E9-E728BF8590EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diary.CQRS", "Diary.CQRS\Diary.CQRS.csproj", "{13972BE0-58C7-41BF-9349-77E8AF23B018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4305D23-D76F-46B7-9286-35C8F82C1B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4305D23-D76F-46B7-9286-35C8F82C1B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4305D23-D76F-46B7-9286-35C8F82C1B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4305D23-D76F-46B7-9286-35C8F82C1B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EEC2256-130F-4472-89E9-E728BF8590EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EEC2256-130F-4472-89E9-E728BF8590EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EEC2256-130F-4472-89E9-E728BF8590EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EEC2256-130F-4472-89E9-E728BF8590EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13972BE0-58C7-41BF-9349-77E8AF23B018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13972BE0-58C7-41BF-9349-77E8AF23B018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13972BE0-58C7-41BF-9349-77E8AF23B018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13972BE0-58C7-41BF-9349-77E8AF23B018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
